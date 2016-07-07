@@ -7,7 +7,7 @@ Scalaza is an open organization focusing on Scala documentation, tutorials, and 
 Scalaza will focus on
 
 - Curation of resources
-- Creation of resoures
+- Creation of resources
 - Events and planning (Including code of conduct and guidelines)
 
 
