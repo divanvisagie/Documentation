@@ -45,7 +45,8 @@ Is the equivalent of
 "org.scala-tools" %% "scala-stm" % "0.3"
 ```
 
-So effectively the extra %% means it figures out what Scala version you are on. You can read more on library dependencies in the docs.
+So effectively the extra %% means it figures out what Scala version you are on. You can read more on library dependencies in the [docs](http://www.scala-sbt.org/0.13/docs/Library-Dependencies.html).
+
 That actually covers it for the heiroglyphs , they are really not too bad once you understand their meaning, and this simple setup can get your Scala project running , testing and managing your dependencies.
 
 ### The multi project build
@@ -62,7 +63,7 @@ lazy val utes = project.in(file("util"))
 The name of the val will be the name when we refer to the project in sbt , so in the case above , sbt utes/compile will 
 compile the util project
 
-Twitter’s finatra-activator-thrift-seed is a nice example of these in practise, so we will use it as an example to work 
+Twitter’s [finatra-activator-thrift-seed](https://github.com/twitter/finatra-activator-thrift-seed) is a nice [example](https://github.com/twitter/finatra-activator-thrift-seed/blob/master/build.sbt) of these in practise, so we will use it as an example to work 
 through.
 
 First let’s look at the baseSettings:
