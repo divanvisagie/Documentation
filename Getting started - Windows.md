@@ -5,5 +5,3 @@ Functional programming theory books: http://alexott.net/en/fp/books/
 3. Download an IDE. We suggest [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows) with the [Scala Plugin](https://plugins.jetbrains.com/plugin/?id=1347)
 
 
-Questions:
-Difference between Scala Worksheet and scala script
