@@ -13,8 +13,11 @@ Scalaza will focus on
 - Events and planning (Including code of conduct and guidelines)
 
 ## Structure
+#### Tutorials
 
-
-
-
-
+```
+├── tutorials
+│   └── [example-tutorial-name]
+│       ├── example
+│       └── README.md
+```
