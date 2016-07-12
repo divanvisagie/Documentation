@@ -16,8 +16,8 @@ Scalaza will focus on
 #### Tutorials
 
 ```
-├── tutorials
-│   └── [example-tutorial-name]
-│       ├── example
-│       └── README.md
+|___tutorials
+│  |___ [example-tutorial-name]
+│    |___ example
+│      |___ README.md
 ```
